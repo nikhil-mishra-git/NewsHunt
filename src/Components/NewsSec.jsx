@@ -63,7 +63,7 @@ const NewsSec = () => {
 
             {/* Card Implement Functions */}
             {isLoading ? (
-                <div className='text-white text-center py-10 text-xl'>
+                <div className='text-white text-center min-h-[90vh] py-10 text-xl'>
                     Loading news...
                 </div>
             ) : (

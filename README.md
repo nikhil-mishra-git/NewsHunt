@@ -1,6 +1,6 @@
 # 📰 NewsHunt
 
-**NewsHunt** is a modern, fast, and elegant news aggregator web app built with **React** and **Tailwind CSS**. It delivers real-time news from multiple categories with smooth UI, responsive design, and instant search — all in one place.
+**NewsHunt** is a modern, fast, and simple news aggregator web app built with **React** and **Tailwind CSS**. It delivers real-time news from multiple categories with smooth UI, responsive design, and instant search — all in one place.
 
 > _Stay informed. Stay ahead._
 
